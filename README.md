@@ -12,8 +12,9 @@ Skills: Data Analysis | Financial Analysis | Data Visualization | Data Modelling
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/funsho04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/saheed-ambali/)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=funsho04)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=funsho04&show_icons=true)  
 
 
 
